@@ -6,6 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Algorithm_py" />
     <orderEntry type="module" module-name="PY" />
+    <orderEntry type="module" module-name="DeepLearning" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

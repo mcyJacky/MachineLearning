@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://E:/c_WORK_PROJECTS/z_ME/Algorithm_py/.idea/Algorithm_py.iml" filepath="E:/c_WORK_PROJECTS/z_ME/Algorithm_py/.idea/Algorithm_py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DeepLearning/.idea/DeepLearning.iml" filepath="$PROJECT_DIR$/../DeepLearning/.idea/DeepLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ML_upload.iml" filepath="$PROJECT_DIR$/.idea/ML_upload.iml" />
       <module fileurl="file://E:/WEB/PY/.idea/PY.iml" filepath="E:/WEB/PY/.idea/PY.iml" />
     </modules>
